@@ -1,5 +1,6 @@
 # inventario_curso
-sistema de inventario y ventas desarrollado en php, pdo, poo, mysql, bootstrap3,jquery, ajax
+sistema de inventario y ventas desarrollado en PHP + PDO + POO(Programación Orientada a Objetos) + MySQL + JQuery + AJAX + BOOTSTRAP3.
+
 
 SUSCRIBETE A MI CANAL YOUTUBE para que veas los videos tutoriales del sistema de inventario y ventas: http://goo.gl/LVpZkd
  
