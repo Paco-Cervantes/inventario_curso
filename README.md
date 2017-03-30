@@ -10,9 +10,9 @@ SUSCRIBETE A MI CANAL YOUTUBE para que veas los videos tutoriales del sistema de
 
 Hola mi gente desarrollé un sistema de inventario y ventas desarrollado en PHP + PDO + POO(Programación Orientada a Objetos) + MySQL + JQuery + AJAX + BOOTSTRAP3.
 
-Sistema de ventas, control de compra-venta de productos, almacen e inventario, control de informacion de usuarios y permisos, proveedores, productos, compras y ventas, reportes en pdf.
+Sistema de ventas, control de compra-venta de productos, almacen e inventario, control de informacion de usuarios y permisos, proveedores, productos, compras y ventas, reportes en pdf por rango de fecha de los modulos, backup de base de datos.
 
-LOS MODULOS ALMACEN Y VENTAS SON DE PAGO Y NO SE ENCUENTRAN EN EL REPOSITORIO, cualquier información me envian un correo webdeveloperphpwordpress@gmail.com para darles información y darles la explicación del desarrollo de esos modulos a través de unos videos tutoriales y la actualización
+LOS MODULOS ALMACEN, VENTAS y BACKUP DE BASE DE DATOS SON DE PAGO Y NO SE ENCUENTRAN EN EL REPOSITORIO, cualquier información me envian un correo webdeveloperphpwordpress@gmail.com para darles información y darles la explicación del desarrollo de esos modulos a través de unos videos tutoriales y la actualización
 
 He utilizado en este proyecto:
 
@@ -23,12 +23,14 @@ He utilizado en este proyecto:
 Las características principales del proyecto son:
 1. Sistema de Registro
 2. Un sistema de inicio de sesión
-3. Clientes, Gestión de Proveedores, alamacén.
+3. Clientes, Gestión de Proveedores, almacén.
 4. Órdenes
 5. Gestión de Inventario
 6. Productos, compras, ventas
 7. Gestión de facturas
+8. backup de la base de datos
+9. Reportes en PDF por rango de fecha de los modulos
 
 IMPORTANTE: puedes ver el desarrolo de este sistema en mi canal de youtube https://www.youtube.com/playlist?list=PL7olSlV0ug1ZGCCSKFSPudKuccHDB9iSp
 
--LOS MODULOS ALMACEN Y VENTAS SON DE PAGO Y NO SE ENCUENTRAN EN EL REPOSITORIO, cualquier información me envian un correo webdeveloperphpwordpress@gmail.com para darles información y darles la explicación del desarrollo de esos modulos a través de unos videos tutoriales y la actualización
+-LOS MODULOS ALMACEN, VENTAS y BACKUP DE BASE DE DATOS SON DE PAGO Y NO SE ENCUENTRAN EN EL REPOSITORIO, cualquier información me envian un correo webdeveloperphpwordpress@gmail.com para darles información y darles la explicación del desarrollo de esos modulos a través de unos videos tutoriales y la actualización
